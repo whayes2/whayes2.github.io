@@ -1,0 +1,38 @@
+body {
+       background-color:lightgrey;
+       margin:20px 20px 20px 20px;
+}
+
+h1  {
+   font-family: “Times New Roman”, Times, serif;
+   text-align:center;
+   font-size: 25px
+}
+
+h2  {
+   font-family: “Times New Roman”, Times, serif;
+   font-size: 22px
+}
+
+h3  {
+   font-family: “Times New Roman”, Times, serif;
+   font-size: 19px
+}
+
+p  {
+   margin:28px 28px 28px 28px;
+   font-family: Verdana, Helvetica, sans-serif;
+   font-size: 16px;
+}
+
+ul  {
+   margin:28px 28px 28px 28px;
+   font-family: Verdana, Helvetica, sans-serif;
+   font-size: 16px;
+}
+
+ol  {
+   margin:28px 28px 28px 28px;
+   font-family: Verdana, Helvetica, sans-serif;
+   font-size: 16px;
+}
